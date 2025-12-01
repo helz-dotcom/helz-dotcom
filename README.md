@@ -12,7 +12,7 @@
 
 ## 🛠️ what i build
 
-i make reverse engineering tools and kernel-mode software that people actually use. focused on windows internals, anti-cheat systems, and low-level optimization.
+i make reverse engineering tools and kernel-mode software. focused on windows internals, anti-cheat systems, and low-level optimization.
 
 ```
 // somewhere between kernel and userland
